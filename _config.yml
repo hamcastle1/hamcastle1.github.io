@@ -1,10 +1,9 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Dylan Rose
+subtitle: Vision/Data
+email: rose.dy@husky.neu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I'm Dylan Rose, and I'm a graduate student at Northeastern University's brand-spanking-new Translational Vision Research Lab. I study the effects of neurological and ophthalmic disease on oculomotor control in complex tasks and try to design assistive technologies to remediate these deficits.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
