@@ -4,13 +4,22 @@
  <title>Dylan Rose</title>
  <link href="http://hamcastle1.github.io/atom.xml" rel="self"/>
  <link href="http://hamcastle1.github.io/"/>
- <updated>2015-07-30T14:07:35-04:00</updated>
+ <updated>2015-07-30T14:15:49-04:00</updated>
  <id>http://hamcastle1.github.io</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>CV</title>
+   <link href="http://hamcastle1.github.io/2015/07/30/CV/"/>
+   <updated>2015-07-30T00:00:00-04:00</updated>
+   <id>http://hamcastle1.github.io/2015/07/30/CV</id>
+   <content type="html">&lt;p&gt;My academic CV can be accessed here and also in NIH format here.&lt;/p&gt;
+</content>
+ </entry>
  
 
 </feed>
