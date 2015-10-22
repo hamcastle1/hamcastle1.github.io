@@ -7,13 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Dylan Rose
-tagline:          'Vision Research & Data'
+tagline:          'Vision/Data Science'
 url:              http://hamcastle1.github.io
 
 paginate:         4
 
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/poole/lanyon
