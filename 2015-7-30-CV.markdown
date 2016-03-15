@@ -1,6 +1,0 @@
----
-layout: page
-title: CV
----
-
-My academic CV can be accessed here and also in NIH format here.
