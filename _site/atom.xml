@@ -4,7 +4,7 @@
  <title>Dylan Rose</title>
  <link href="http://hamcastle1.github.io/atom.xml" rel="self"/>
  <link href="http://hamcastle1.github.io/"/>
- <updated>2015-11-16T14:08:19-05:00</updated>
+ <updated>2016-03-14T23:40:16-04:00</updated>
  <id>http://hamcastle1.github.io</id>
  <author>
    <name></name>
@@ -13,10 +13,27 @@
 
  
  <entry>
+   <title>Today I Read...</title>
+   <link href="http://hamcastle1.github.io/2015/11/17/today_i_read/"/>
+   <updated>2015-11-17T00:00:00-05:00</updated>
+   <id>http://hamcastle1.github.io/2015/11/17/today_i_read</id>
+   <content type="html">&lt;p&gt;Today I read “Defending Yarbus: Eye movements reveal observers’ task” by Ali Borji and Laurent Itti. This paper was published in &lt;em&gt;Journal of Vision&lt;/em&gt; in 2014 as part of Volume 14, Issue 3.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper was written largely in response to one published by Greene et al (2012; I’ll review this paper in a subsequent study) that produced a negative result with respect to Yarbus’ original observation (1967) that it might be possible to decode an observers’ task based on their scanpath. As the extensive provided literature review suggests, this is a hypothesis that has done much to shape research in both eye movement related research and cognitive psychology.&lt;/p&gt;
+
+&lt;p&gt;Obviously, the ability to infer an observer’s goals or mental state on the basis of their eye movement trace would have huge scientific and technical implications – hence the large volume of work in this area. Most related research has focused on attempts to infer an observer’s tamarmion_home&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Discussion:&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Schachner, Brady, Pepperberg & Hauser, 2009</title>
-   <link href="http://hamcastle1.github.io/2015/11/16/Schachner,%20Brady,%20Pepperberg%20&%20Hauser,%202009/"/>
+   <link href="http://hamcastle1.github.io/2015/11/16/today_i_read/"/>
    <updated>2015-11-16T00:00:00-05:00</updated>
-   <id>http://hamcastle1.github.io/2015/11/16/Schachner, Brady, Pepperberg & Hauser, 2009</id>
+   <id>http://hamcastle1.github.io/2015/11/16/today_i_read</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;—————————————&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;
