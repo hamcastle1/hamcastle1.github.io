@@ -95,10 +95,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "ins",
+		"height": 147.0,
+		"last_filter": "git push",
 		"selected_items":
 		[
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"ss:mar",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
 			[
 				"ins",
 				"Package Control: Install Package"
@@ -130,10 +142,6 @@
 			[
 				"git qui",
 				"Git: Quick Commit"
-			],
-			[
-				"git status",
-				"Git: Status"
 			],
 			[
 				"git stat",
@@ -197,6 +205,7 @@
 	],
 	"file_history":
 	[
+		"/Users/Dylan/Desktop/git_locals/personal_site/_posts/2016-3-21-masters_thesis_presentation.md",
 		"/Users/Dylan/Dropbox/neu_mit_experiments/stereo_brightness/readme.txt",
 		"/Users/Dylan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/Dylan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
@@ -295,6 +304,14 @@
 	{
 		"height": 100.0
 	},
+	"output.git-commit":
+	{
+		"height": 100.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
+	},
 	"pinned_build_system": "",
 	"project": "personal_site.sublime-project",
 	"replace":
@@ -337,7 +354,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 157.0,
+	"side_bar_width": 319.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
