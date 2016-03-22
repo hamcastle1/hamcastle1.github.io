@@ -1,0 +1,86 @@
+quick open, command O
+quick entry, control-option-space
+new action, command-n
+new context, control-command-n
+new project, command-shift-n
+convert to project, command-i
+mark reviewed, shift-command-r
+focus on,shift-command-f
+show in contexts/projects,option-command-r
+set/clear flag, shift-command-l
+synchronize with server, command-s
+edit note/name, command '
+show/hide note, option-command '
+show/hide all notes, control-command '
+clean up, command-k
+add inside, shift-command ]
+add outside, shift-command [
+indent, command ]
+outdent, command [
+group, option-command-G
+ungroup, option-command-U
+move up, control-command-uparrow
+move down, control-command-downarrow
+move left, control-command-leftarrow
+move right, control-command-rightarrow
+new window, option-command-n
+close window, command-w
+close all windows, option-command-w
+minimize window, command-m
+minimize all windows, option-command-m
+preferences, command-comma
+hide omnifocus, command-h
+hide others, option-command-h
+hide/show sidebar, option-command-s
+hide/show inspector, option-command-i
+go to sidebar, option-command-1
+go to outline, option-command-2
+go to inspector, option-command-3
+show/hide view options, shift-command-v
+enter/exit full screen, control-command-f
+quit and keep windows, option-command-q
+quit omnifocus, command-q
+undo, command-z
+redo, shift-command-z
+cut, command-x
+copy, command-c
+paste, command-v
+select all, command-a
+deselect all, shift-command-a
+duplicate, command-d
+start dictation, function-function
+special characters, control-command-space
+copy style, option-command-c
+paste style, option-command-v
+paste and match style, option-shift-command-v
+clear style, control-command-delete
+show/hide fonts, command-t
+show/hide colors, shift-command-c
+bold, command-b
+italic, command-i
+underline, command-u
+bigger,command +
+smaller, command -
+expand all, control-command-9
+collapse all, control-command-0
+expand item, command-9
+expand item completely, option-command-9
+collapse item, command-0
+collapse item completely, option-command-0
+go to search field, option-command-f
+find, command-f
+find next, command-g
+find previous, shift-command-g
+use selection for find, command-e
+jump to selection, command-j
+show/hide spelling and grammar, command :
+check spelling, command ;
+page setup (printing), shift-command-p
+print page/item, command-p
+show perspectives, control-command-p
+inbox perspective, command-1
+project perspective, command-2
+contexts perspective, command-3
+forecast perspective, command-4
+flagged persepctive, command-5
+review perspective, command-6
