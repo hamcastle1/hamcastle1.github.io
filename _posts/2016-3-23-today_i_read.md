@@ -7,7 +7,7 @@ layout: post
 
 With this post, I'm starting a new block of work on this site. I've set a goal for myself to try read, summarize, and produce a short critique of a scientific paper every day for a year. We'll see how close to that goal I actually get X_X.
 
-<!--break-->
+<!--more-->
 
 My second goal for this project is to practice a clear and concise scientific writing style, so both portions of each post (the summary and critique), will have length caps of five (short, at least by my standards) sentences each. 
 
