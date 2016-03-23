@@ -10,5 +10,5 @@ title:            Dylan Rose
 tagline:          'Vision/Data Science'
 url:              http://hamcastle1.github.io
 paginate:         4
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 
