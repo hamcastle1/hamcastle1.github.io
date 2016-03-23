@@ -3,8 +3,6 @@ title: Today I Read Nystrom et al (2013)
 layout: post
 ---
 
-# Intro
-
 With this post, I'm starting a new block of work on this site. I've set a goal for myself to try read, summarize, and produce a short critique of a scientific paper every day for a year. We'll see how close to that goal I actually get X_X.
 
 <!--more-->
