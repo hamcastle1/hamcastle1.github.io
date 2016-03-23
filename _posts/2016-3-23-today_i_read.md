@@ -11,6 +11,8 @@ tags:
 
 With this post, I'm starting a new block of work on this site. I've set a goal for myself to try read, summarize, and produce a short critique of a scientific paper every day for a year. We'll see how close to that goal I actually get X_X.
 
+<!--break-->
+
 My second goal for this project is to practice a clear and concise scientific writing style, so both portions of each post (the summary and critique), will have length caps of five (short, at least by my standards) sentences each. 
 
 So, today I read a paper by Nystrom et al called "The influence of calibration method and eye physiology on eyetracking data quality", which was published in Behavioral Research Methods in 2013. It can be found, in pdf format, at this [link](https://www.researchgate.net/profile/Kenneth_Holmqvist/publication/230811590_The_influence_of_calibration_method_and_eye_physiology_on_eyetracking_data_quality/links/54db17b10cf233119bc519af.pdf).
