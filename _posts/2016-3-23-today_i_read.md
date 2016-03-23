@@ -1,5 +1,5 @@
 ---
-title: Today I Read Nystrom et al, 2013
+title: Today I Read Nystrom et al (2013)
 layout: post
 tags: 
 	-Today I Read
