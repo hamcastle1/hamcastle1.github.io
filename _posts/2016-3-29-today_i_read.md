@@ -3,7 +3,7 @@ title: Today I Read Crossland, Engel & Legge (2011)
 layout: post
 ---
 
-Today I read "The preferred retinal locus in macular disease: Towards a consensus definition" by Crossland, Engel and Legge. It was published in _Retina_ in 2011. Again, paywalled, but a reference link is available here [here](http://journals.lww.com/retinajournal/Abstract/2011/11000/THE_PREFERRED_RETINAL_LOCUS_IN_MACULAR_DISEASE_.21.aspx). 
+Today I read "The preferred retinal locus in macular disease: Towards a consensus definition" by Crossland, Engel and Legge. It was published in _Retina_ in 2011. Again, paywalled, but a reference link is available [here](http://journals.lww.com/retinajournal/Abstract/2011/11000/THE_PREFERRED_RETINAL_LOCUS_IN_MACULAR_DISEASE_.21.aspx). 
 
 <!--more-->
 
