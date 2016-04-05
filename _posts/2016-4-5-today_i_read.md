@@ -5,6 +5,9 @@ layout: Post
 
 Today I read "Impact of Simulated Central Scotomas on Visual Search in Natural Scenes" by McIlreavy, Fisher and Bex. It was published in IOVS in September of 2012. An HTML version is available [here](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432450/).
 
+<!--more-->
+
+
 # Intro
 
 Missed a couple of days there x_X. Oh well -- best just to get back in the saddle. 
