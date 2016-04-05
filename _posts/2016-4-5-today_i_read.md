@@ -1,5 +1,5 @@
 ---
-Title: Today I Read McIlreavy, Fisher and Bex (2012)
+title: Today I Read McIlreavy Fisher and Bex (2012)
 layout: Post
 ---
 
