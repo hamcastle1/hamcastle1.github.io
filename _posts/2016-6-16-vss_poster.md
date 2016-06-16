@@ -1,4 +1,3 @@
-
 ---
 title: VSS Poster
 layout: post
