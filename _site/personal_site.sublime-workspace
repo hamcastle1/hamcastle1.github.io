@@ -1,0 +1,362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"model",
+				"model_2_plot"
+			],
+			[
+				"mode",
+				"-model_2_plot"
+			],
+			[
+				"la",
+				"labs	{ggplot2}"
+			],
+			[
+				"mo",
+				"model_2_plot"
+			],
+			[
+				"first_or_sec",
+				"first_or_second_factor"
+			],
+			[
+				"first_or",
+				"first_or_second_factor"
+			],
+			[
+				"firsr",
+				"first_or_second"
+			],
+			[
+				"median_err",
+				"median_error_deg"
+			],
+			[
+				"expt_",
+				"expt_2_model_data"
+			],
+			[
+				"fi",
+				"first_or_second"
+			],
+			[
+				"first",
+				"first_or_second_factor"
+			],
+			[
+				"witin",
+				"within_block_abs_trialnum"
+			],
+			[
+				"first_",
+				"first_or_second"
+			],
+			[
+				"display",
+				"display_vertical_res"
+			],
+			[
+				"disp",
+				"display_subject_distance"
+			],
+			[
+				"element",
+				"element_line	{ggplot2}"
+			],
+			[
+				"element_",
+				"element_rect	{ggplot2}"
+			],
+			[
+				"model_",
+				"model_1_plot"
+			],
+			[
+				"expt_2",
+				"expt_2_model_data"
+			],
+			[
+				"geom_s",
+				"geom_smooth	{ggplot2}"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "git push",
+		"selected_items":
+		[
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"ss:mar",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime ",
+				"SublimeREPL: R"
+			],
+			[
+				"ssr",
+				"Set Syntax: R"
+			],
+			[
+				"sublime",
+				"SublimeREPL: R"
+			],
+			[
+				"sub",
+				"SublimeREPL: R"
+			],
+			[
+				"subl",
+				"SublimeREPL: ECL"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ss R",
+				"Set Syntax: R"
+			],
+			[
+				"suble",
+				"SublimeREPL: ECL"
+			],
+			[
+				"s",
+				"SublimeREPL: R"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Dylan/Desktop/git_locals/personal_site"
+	],
+	"file_history":
+	[
+		"/Users/Dylan/Desktop/git_locals/personal_site/_posts/2016-3-21-masters_thesis_presentation.md",
+		"/Users/Dylan/Dropbox/neu_mit_experiments/stereo_brightness/readme.txt",
+		"/Users/Dylan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Dylan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Dylan/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/Dylan/Desktop/concepts_training_CLEANED_150320.csv",
+		"/Users/Dylan/Dropbox/masters_convention/code/get_data.R",
+		"/Users/Dylan/Dropbox/masters_convention/code/question_1_aggregate_plots_by_order.R",
+		"/Users/Dylan/Library/Application Support/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/Dylan/Library/Application Support/Sublime Text 2/Packages/User/R-Box.sublime-settings",
+		"/Users/dylanrose/Dropbox/masters_convention/code/get_data.R",
+		"/Users/dylanrose/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dylanrose/Library/Application Support/Sublime Text 3/Packages/User/Sublimall.sublime-settings",
+		"/Users/dylanrose/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/R/Main.sublime-menu",
+		"/Users/dylanrose/Library/Application Support/Sublime Text 3/Packages/User/R-Box.sublime-settings",
+		"/Users/dylanrose/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Log-transformed Median Error Values",
+			"expt_1_by_subject_plot <- ggplot(data=expt_1_model_data,aes(x=abs_trialnum,y=log_median_error,color=subject_id))+geom_smooth()+labs(title='Experiment 1: By-Subject Performance Across Blocks',x='Absolute Trial Number',y='Target/Ring Error')\n",
+			"Log-transformed Median Error Values",
+			"model_1_plot",
+			"abs_block_num"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.git-commit":
+	{
+		"height": 100.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "personal_site.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
