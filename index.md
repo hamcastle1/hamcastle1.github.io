@@ -1,6 +1,5 @@
-
 ---
-layout: default
+layout: page
 ---
 
 ## Who the hell are you!?
@@ -8,7 +7,7 @@ Dylan Rose! I'm a PhD student in Peter Bex's Translational Vision Laboratory at 
 
 Here is a silly picture of me from a long time ago:
 
-![Test.](/assets/silly_picture.jpg){: .center-image }
+![So silly.](/assets/silly_picture.jpg){: .center-image }
 
 It was a simpler time.
 

@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -12,3 +12,5 @@ url:              http://hamcastle1.github.io
 paginate:         4
 excerpt_separator: <!--more-->
 
+# Gems
+gems: [jekyll-paginate]
